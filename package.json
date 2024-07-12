@@ -1,11 +1,11 @@
 {
-  "name": "testing-server",
-  "version": "1.0.0",
+  "name": "testing-http-server",
+  "version": "0.0.1",
   "main": "app.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "4jss",
+  "license": "GPL-3.0-only",
   "description": "",
   "dependencies": {
     "ejs": "^3.1.10",
